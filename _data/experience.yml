@@ -12,7 +12,7 @@
 - company: Bukalapak
   position: Software Engineer (Backend)
   duration: Nov, 2016 &mdash; Jan, 2020
-  summary: "During my 3 years in Bukalapak I've been a member of 3 teams. I've gained experience using following programming languages and technologies: Ruby (with Rails or Sinatra), Elixir, MySQL, MongoDB, Redis, RabbitMQ, Docker, Kubernetes, Gitlab CI. I am now a little bit rusty using those languages and technologies, but willing to re-learn it if needed. The 3 teams I've been a member of:"
+  summary: "During my 3 years in Bukalapak I've been a member of 3 teams:"
   teams:
     - name: BukaMobil
       description: BukaMobil is Bukalapak's product which enable user to purchase cars. I was in charge of developing the backend of admin dashboard.
